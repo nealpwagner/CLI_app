@@ -1,0 +1,27 @@
+{
+  "name": "CLI_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nealpwagner/CLI_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nealpwagner/CLI_app/issues"
+  },
+  "homepage": "https://github.com/nealpwagner/CLI_app#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0",
+    "numeral": "^2.0.6",
+    "prompt": "^1.0.0",
+    "readline-sync": "^1.4.9"
+  }
+}
